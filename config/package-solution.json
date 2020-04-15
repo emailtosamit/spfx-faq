@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "frequently-asked-questions-client-side-solution",
+    "id": "7d4f01d3-bfc2-4cc9-bad5-6d8d4c3534dc",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/frequently-asked-questions.sppkg"
+  }
+}
